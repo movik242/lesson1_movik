@@ -49,4 +49,6 @@ sudo reboot
 uname -a
 ```
 Вывод команды
+```
 Linux movik 6.5.0-060500daily20230904-generic #202309032200 SMP PREEMPT_DYNAMIC Mon Sep  4 02:08:41 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux
+```
