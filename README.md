@@ -3,6 +3,7 @@
 # **Настройка АРМ**
 Скачиваем 4 файла
 https://kernel.ubuntu.com/~kernel-ppa/mainline/daily/current/amd64/linux-headers-6.6.0-060600rc1daily20230911-generic_6.6.0-060600rc1daily20230911.202309110200_amd64.deb
+https://kernel.ubuntu.com/~kernel-ppa/mainline/daily/current/amd64/linux-headers-6.6.0-060600rc1daily20230911-generic_6.6.0-060600rc1daily20230911.202309110200_amd64.deb
 
 # **Kernel update**
 
